@@ -237,6 +237,10 @@ I tested the assistant against a custom 24-question benchmark across all four fi
 ![A pictured showing the markdown evaluation](screenshots/md-evaluation.png)
 
 
+### 🔷 Total evaluation results : 
+
+![A pictured showing the total evaluation](screenshots/total-evaluation.png)
+
 
 
 ## Project File Structure
